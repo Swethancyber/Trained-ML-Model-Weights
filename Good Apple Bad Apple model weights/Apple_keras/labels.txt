@@ -1,0 +1,29 @@
+0 normal_red_apple
+1 green_apple with defect 5-10%
+2 ✅ Eatable Apples:30-80%
+3 red apple D 50-60
+4 ✅ Eatable Apples: ~49.8%  ❌Non-Eatable Apples: ~50
+5 ✅ Eatable Apples: 78%  ❌ Non-Eatable Apples:21
+6 ✅ Edible Apples:46.15% ❌ Not Edible:53.85%
+7 ✅ Eatable: 51.9%  ❌ Non-Eatable: 48.1%
+8 ✅ Eatable:75 %  ❌ Non-Eatable: 25%
+9 ✅ Eatable:65 %  ❌ Non-Eatable: 35%
+10 ✅ Eatable:54 %  ❌ Non-Eatable: 46%
+11 ✅ Eatable:64.8 %  ❌ Non-Eatable: 35.2%
+12 ✅ Eatable:58 %  ❌ Non-Eatable: 42%
+13 ✅ Eatable:48.15 %  ❌ Non-Eatable: 51.85%
+14 ✅ Eatable:70% ❌ Non-Eatable: 30%
+15  ✅ Eatable:39.02% ❌ Non-Eatable:60.98%
+16 ✅ Eatable:51.85% ❌ Non-Eatable:48.15%
+17 ✅ Eatable:51.83% ❌ Non-Eatable:48.17%
+18 ✅ Eatable:85.8% ❌ Non-Eatable:14.2%
+19 ✅ Eatable:61.5% ❌ Non-Eatable:38.5%
+20 ✅ Eatable:53.85% ❌ Non-Eatable:46.15%
+21 ✅ Eatable:60.43% ❌ Non-Eatable:39.57%
+22 ✅ Eatable:45.71% ❌ Non-Eatable:54.29%
+23 ✅all edible
+24 edible but wrinkled
+25 not fully grown apples
+26 apple fully rotten
+27 ✅ Eatable:87.6% ❌ Non-Eatable:12.4%
+28 Eaten 
