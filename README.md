@@ -4,6 +4,7 @@ This project uses two different image classification models trained
 
 - 🐱🐶 **Cat vs Dog**
 - 🍎❌ **Good Apple vs Bad Apple**
+- 🏍️ **With and Without Helmet**
 
 
 
